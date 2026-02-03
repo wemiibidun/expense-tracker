@@ -25,9 +25,9 @@ A clean expense tracker built with React and Vite. Add income and expenses, filt
 ![Vite](https://img.shields.io/badge/Vite-239120?style=for-the-badge&logo=vite&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-* React
-* Vite
-* CSS
+* React — component-based UI, state management, and interactive form handling
+* Vite — fast dev server, optimized build output, and GitHub Pages deployment
+* CSS — responsive layout, card styling, and chart visuals
 
 ## Features
 * Add income and expenses with categories and dates
