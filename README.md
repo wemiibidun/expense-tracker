@@ -18,7 +18,7 @@
 A clean expense tracker built with React and Vite. Add income and expenses, filter by type or category, and see your balance update instantly. All data is saved locally in the browser, so you can pick up right where you left off.
 
 ## Screenshot
-![Expense tracker preview](public/preview.png)
+![Expense tracker preview](https://github.com/wemiibidun/expense-tracker/blob/main/preview.png)
 
 ## Technologies
 ![React](https://img.shields.io/badge/React-239120?style=for-the-badge&logo=react&logoColor=white)
