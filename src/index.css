@@ -8,8 +8,8 @@
 
 body {
   margin: 0;
-  font-family: "Manrope", "Segoe UI", sans-serif;
-  background: radial-gradient(circle at top, #f3f4f8 0%, #e8edf5 45%, #fdfdfd 100%);
+  font-family: "Plus Jakarta Sans", "Manrope", "Segoe UI", sans-serif;
+  background: radial-gradient(circle at top, #f6f7fb 0%, #e9eef7 45%, #fdfdfd 100%);
   color: #101319;
 }
 
