@@ -15,7 +15,7 @@
 * [Contact](#contact)
 
 ## Introduction
-A clean expense tracker built with React and Vite. Log income and expenses, filter by category, and keep your balance in check with a clear, modern UI.
+A clean expense tracker built with React and Vite. Add income and expenses, filter by type or category, and see your balance update instantly. All data is saved locally in the browser, so you can pick up right where you left off.
 
 ## Screenshot
 ![Expense tracker preview](public/preview.png)
@@ -31,10 +31,10 @@ A clean expense tracker built with React and Vite. Log income and expenses, filt
 
 ## Features
 * Add income and expenses with categories and dates
-* Search and filter by type and category
-* Automatic balance, income, and expense totals
-* Category breakdown chart
-* Local storage persistence
+* Search and filter transactions by type or category
+* Live balance, income, and expense totals
+* Category breakdown chart for top spending areas
+* Local storage persistence (no account needed)
 
 ## Deployment (Vite + GitHub Pages)
 1. Set the base path in `vite.config.js`:
